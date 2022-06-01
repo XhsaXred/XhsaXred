@@ -9,15 +9,7 @@ I am Muhammed Furkan Gulsen 🧔
 
 I live in Istanbul and studying software engineering at Beykent University🏫. I developed myself on the web for over 5 years. I am currently working as a full stack developer at an AI supported media technology company👨‍💻. 
 
-## 👯 Communities
-- Leader Development Program (LIGEP) - Trainee (2022-♾)
-- BEU Google Developer Student Club (DSC) - Lead (2021-♾)
-- Microsoft Imaginer - Student Ambassador (2021-♾)
-- Global AI Hub - Core Team (2021 - 2022)
-- TensorFlow Turkey - Core Team (2021 - 2022)
-- BEU Google Developer Student Club (DSC) - Core Team (2020 - 2021)
-- BEU Software Engineering Club - Core Team (2020 - 2021)
-- Facebook Developer Circle - Core Team (2019-2020)
+
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (Angular)**
@@ -29,13 +21,7 @@ Talk to me about
 - Robust full-stack system design implementation
 - Solving Data structure and algorithm questions in **Java and Python**
 
-## 🤔 Hello World!! 
-- 💬 Ask me about anything and everything.
-- 🐥Check my Twitter Account [![YouTube](https://img.shields.io/badge/FOLLOW%20ME-TWITTER-informational?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/furkangulsenn)
-- 📽 Watch my videos: [![YouTube](https://img.shields.io/badge/FOLLOW%20ME-YOUTUBE-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/FurkanGulsen) 
-- 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@furkangulsen)
-- 🎯 Check out my Instagram page (54k followers): [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/codeblogger/)
-- 💁‍♂️ View also review my Kaggle works: [![KAGGLE](https://img.shields.io/badge/FOLLOW%20ME-KAGGLE-yellow?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/codeblogger)
+
 
 
 ## 📈 Github Stats
